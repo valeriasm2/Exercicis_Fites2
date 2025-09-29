@@ -31,5 +31,5 @@ php -S 0:8080
 
 ## Obrir el navegador
 
-**http://localhost:8080/FormLogin.php
+http://localhost:8080/FormLogin.php
 
