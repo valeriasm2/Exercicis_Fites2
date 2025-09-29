@@ -7,7 +7,6 @@ Aquest projecte està enfocat en l'ús de formularis amb els mètodes **GET** i 
 ## Descripció
 
 L'objectiu d'aquesta fita és aprendre a capturar i processar dades enviades des d'un formulari web utilitzant PHP.  
-S'inclou un formulari de login com a primer exemple pràctic per entendre com funcionen els mètodes GET i POST.
 
 ---
 
