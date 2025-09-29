@@ -11,10 +11,25 @@ S'inclou un formulari de login com a primer exemple pràctic per entendre com fu
 
 ---
 
+## Requisits
+
+- PHP 7.0 o superior instal·lat al teu ordinador.
+- Navegador web modern (Chrome, Firefox, Edge, etc.).
+
+---
+
 ## Com accedir a l'aplicació
 
+1. **Obrir la terminal** i situar-te a la carpeta del projecte on es troba `FormLogin.php`.
+
+2. **Iniciar el servidor PHP** amb el següent comandament:
 
 ```bash
 php -S 0:8080
 
-localhost:8080/FormLogin.php
+---
+
+## Obrir el navegador
+
+**http://localhost:8080/FormLogin.php
+
