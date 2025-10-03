@@ -10,13 +10,6 @@ L'objectiu d'aquesta fita és aprendre a capturar i processar dades enviades des
 
 ---
 
-## Requisits
-
-- PHP 7.0 o superior instal·lat al teu ordinador.
-- Navegador web modern (Chrome, Firefox, Edge, etc.).
-
----
-
 ## Com accedir a l'aplicació
 
 1. **Obrir la terminal** i situar-te a la carpeta del projecte on es troben els arxius .php.
@@ -30,5 +23,5 @@ php -S 0:8080
 
 ## Obrir el navegador
 
-http://localhost:8080/FormLogin.php
+http://localhost:8080/"arxiu o ruta del arxiu"
 
